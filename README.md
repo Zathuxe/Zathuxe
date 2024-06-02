@@ -9,8 +9,8 @@ I'm a french 3D animator willing to learn about python in order to build plugin 
 
 Feel the **Chaos**
 
-Live with **Curiosity**
+Live with **Curiosity****
 
 Build with **Communication**
 
-Spread the **<CCC0DE>** 
+Spread the **\<CCC0DE\>**
